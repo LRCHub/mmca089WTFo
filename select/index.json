@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Boys be Smile",
+  "base_artist": "鈴湯、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T12:02:54.341104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boys be smile",
+      "artist": "Suzuyu",
+      "has_synced": false,
+      "path": "select/01_Boys_be_smile_Suzuyu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boys be Smile",
+      "artist": "鈴湯",
+      "has_synced": true,
+      "path": "select/02_Boys_be_Smile_鈴湯.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boys be smile",
+      "artist": "鈴湯",
+      "has_synced": false,
+      "path": "select/03_Boys_be_smile_鈴湯.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boys be smile",
+      "artist": "Suzuyu",
+      "has_synced": true,
+      "path": "select/04_Boys_be_smile_Suzuyu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boys be Smile",
+      "artist": "鈴湯, VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_01_Boys_be_Smile_鈴湯,_VISUAL_ARTS___Key.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Boys be Smile (TV Size)",
+      "artist": "鈴湯, VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_02_Boys_be_Smile_(TV_Size)_鈴湯,_VISUAL_ARTS___Key.txt"
+    }
+  ]
+}
